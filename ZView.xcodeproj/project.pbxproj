@@ -7,6 +7,15 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		55215A4916F8C6D500E1FBBE /* menu_approve.png in Resources */ = {isa = PBXBuildFile; fileRef = 55215A4816F8C6D500E1FBBE /* menu_approve.png */; };
+		558E75B416EAFFA500FEA78C /* CIRCLE.png in Resources */ = {isa = PBXBuildFile; fileRef = 558E75B116EAFFA500FEA78C /* CIRCLE.png */; };
+		558E75B516EAFFA500FEA78C /* DOWN.png in Resources */ = {isa = PBXBuildFile; fileRef = 558E75B216EAFFA500FEA78C /* DOWN.png */; };
+		558E75B616EAFFA500FEA78C /* UP.png in Resources */ = {isa = PBXBuildFile; fileRef = 558E75B316EAFFA500FEA78C /* UP.png */; };
+		559DE52416EB84FA00CADBD8 /* View.xib in Resources */ = {isa = PBXBuildFile; fileRef = 559DE52316EB84FA00CADBD8 /* View.xib */; };
+		559DE52B16EB87E800CADBD8 /* UMBRELLA.png in Resources */ = {isa = PBXBuildFile; fileRef = 559DE52A16EB87E800CADBD8 /* UMBRELLA.png */; };
+		559DE53316EC121E00CADBD8 /* MyGradientView.m in Sources */ = {isa = PBXBuildFile; fileRef = 559DE53216EC121E00CADBD8 /* MyGradientView.m */; };
+		559DE53516EC12CB00CADBD8 /* QuartzCore.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 559DE53416EC12CB00CADBD8 /* QuartzCore.framework */; };
+		559DE53716EC13B100CADBD8 /* MyImage.png in Resources */ = {isa = PBXBuildFile; fileRef = 559DE53616EC13B100CADBD8 /* MyImage.png */; };
 		55C75A4D16EAF35F00F45ED3 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 55C75A4C16EAF35F00F45ED3 /* UIKit.framework */; };
 		55C75A4F16EAF35F00F45ED3 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 55C75A4E16EAF35F00F45ED3 /* Foundation.framework */; };
 		55C75A5116EAF35F00F45ED3 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 55C75A5016EAF35F00F45ED3 /* CoreGraphics.framework */; };
@@ -18,9 +27,25 @@
 		55C75A6316EAF35F00F45ED3 /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 55C75A6216EAF35F00F45ED3 /* Default-568h@2x.png */; };
 		55C75A6616EAF35F00F45ED3 /* LOCViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 55C75A6516EAF35F00F45ED3 /* LOCViewController.m */; };
 		55C75A6916EAF35F00F45ED3 /* LOCViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 55C75A6716EAF35F00F45ED3 /* LOCViewController.xib */; };
+		55C75A7016EAF57900F45ED3 /* blackImage.png in Resources */ = {isa = PBXBuildFile; fileRef = 55C75A6F16EAF57900F45ED3 /* blackImage.png */; };
+		55C75A7216EAF7D700F45ED3 /* Unknown.png in Resources */ = {isa = PBXBuildFile; fileRef = 55C75A7116EAF7D700F45ED3 /* Unknown.png */; };
+		611855A016EF17B900AA1E96 /* round_menu_up.png in Resources */ = {isa = PBXBuildFile; fileRef = 6118559E16EF17B900AA1E96 /* round_menu_up.png */; };
+		61FAEFDD16EF1CB3001A7B96 /* View1.xib in Resources */ = {isa = PBXBuildFile; fileRef = 61FAEFDC16EF1CB3001A7B96 /* View1.xib */; };
+		61FAEFE016EF29ED001A7B96 /* round_menu_dwn.png in Resources */ = {isa = PBXBuildFile; fileRef = 61FAEFDF16EF29ED001A7B96 /* round_menu_dwn.png */; };
+		61FAEFE216EF3081001A7B96 /* menu_back_img_new.png in Resources */ = {isa = PBXBuildFile; fileRef = 61FAEFE116EF3080001A7B96 /* menu_back_img_new.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		55215A4816F8C6D500E1FBBE /* menu_approve.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = menu_approve.png; sourceTree = "<group>"; };
+		558E75B116EAFFA500FEA78C /* CIRCLE.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = CIRCLE.png; sourceTree = "<group>"; };
+		558E75B216EAFFA500FEA78C /* DOWN.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = DOWN.png; sourceTree = "<group>"; };
+		558E75B316EAFFA500FEA78C /* UP.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = UP.png; sourceTree = "<group>"; };
+		559DE52316EB84FA00CADBD8 /* View.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = View.xib; sourceTree = "<group>"; };
+		559DE52A16EB87E800CADBD8 /* UMBRELLA.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = UMBRELLA.png; sourceTree = "<group>"; };
+		559DE53116EC121E00CADBD8 /* MyGradientView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MyGradientView.h; sourceTree = "<group>"; };
+		559DE53216EC121E00CADBD8 /* MyGradientView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MyGradientView.m; sourceTree = "<group>"; };
+		559DE53416EC12CB00CADBD8 /* QuartzCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = QuartzCore.framework; path = System/Library/Frameworks/QuartzCore.framework; sourceTree = SDKROOT; };
+		559DE53616EC13B100CADBD8 /* MyImage.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = MyImage.png; sourceTree = "<group>"; };
 		55C75A4816EAF35F00F45ED3 /* ZView.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ZView.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		55C75A4C16EAF35F00F45ED3 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		55C75A4E16EAF35F00F45ED3 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
@@ -37,6 +62,12 @@
 		55C75A6416EAF35F00F45ED3 /* LOCViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = LOCViewController.h; sourceTree = "<group>"; };
 		55C75A6516EAF35F00F45ED3 /* LOCViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = LOCViewController.m; sourceTree = "<group>"; };
 		55C75A6816EAF35F00F45ED3 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/LOCViewController.xib; sourceTree = "<group>"; };
+		55C75A6F16EAF57900F45ED3 /* blackImage.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = blackImage.png; sourceTree = "<group>"; };
+		55C75A7116EAF7D700F45ED3 /* Unknown.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Unknown.png; sourceTree = "<group>"; };
+		6118559E16EF17B900AA1E96 /* round_menu_up.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = round_menu_up.png; sourceTree = "<group>"; };
+		61FAEFDC16EF1CB3001A7B96 /* View1.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = View1.xib; sourceTree = "<group>"; };
+		61FAEFDF16EF29ED001A7B96 /* round_menu_dwn.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = round_menu_dwn.png; sourceTree = "<group>"; };
+		61FAEFE116EF3080001A7B96 /* menu_back_img_new.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = menu_back_img_new.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -44,6 +75,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				559DE53516EC12CB00CADBD8 /* QuartzCore.framework in Frameworks */,
 				55C75A4D16EAF35F00F45ED3 /* UIKit.framework in Frameworks */,
 				55C75A4F16EAF35F00F45ED3 /* Foundation.framework in Frameworks */,
 				55C75A5116EAF35F00F45ED3 /* CoreGraphics.framework in Frameworks */,
@@ -56,6 +88,7 @@
 		55C75A3D16EAF35F00F45ED3 = {
 			isa = PBXGroup;
 			children = (
+				559DE53416EC12CB00CADBD8 /* QuartzCore.framework */,
 				55C75A5216EAF35F00F45ED3 /* ZView */,
 				55C75A4B16EAF35F00F45ED3 /* Frameworks */,
 				55C75A4916EAF35F00F45ED3 /* Products */,
@@ -83,11 +116,26 @@
 		55C75A5216EAF35F00F45ED3 /* ZView */ = {
 			isa = PBXGroup;
 			children = (
+				55215A4816F8C6D500E1FBBE /* menu_approve.png */,
+				61FAEFE116EF3080001A7B96 /* menu_back_img_new.png */,
+				61FAEFDF16EF29ED001A7B96 /* round_menu_dwn.png */,
+				6118559E16EF17B900AA1E96 /* round_menu_up.png */,
+				559DE53616EC13B100CADBD8 /* MyImage.png */,
+				559DE53116EC121E00CADBD8 /* MyGradientView.h */,
+				559DE53216EC121E00CADBD8 /* MyGradientView.m */,
+				559DE52A16EB87E800CADBD8 /* UMBRELLA.png */,
+				558E75B116EAFFA500FEA78C /* CIRCLE.png */,
+				558E75B216EAFFA500FEA78C /* DOWN.png */,
+				558E75B316EAFFA500FEA78C /* UP.png */,
+				55C75A7116EAF7D700F45ED3 /* Unknown.png */,
+				55C75A6F16EAF57900F45ED3 /* blackImage.png */,
 				55C75A5B16EAF35F00F45ED3 /* LOCAppDelegate.h */,
 				55C75A5C16EAF35F00F45ED3 /* LOCAppDelegate.m */,
 				55C75A6416EAF35F00F45ED3 /* LOCViewController.h */,
 				55C75A6516EAF35F00F45ED3 /* LOCViewController.m */,
 				55C75A6716EAF35F00F45ED3 /* LOCViewController.xib */,
+				559DE52316EB84FA00CADBD8 /* View.xib */,
+				61FAEFDC16EF1CB3001A7B96 /* View1.xib */,
 				55C75A5316EAF35F00F45ED3 /* Supporting Files */,
 			);
 			path = ZView;
@@ -164,6 +212,19 @@
 				55C75A6116EAF35F00F45ED3 /* Default@2x.png in Resources */,
 				55C75A6316EAF35F00F45ED3 /* Default-568h@2x.png in Resources */,
 				55C75A6916EAF35F00F45ED3 /* LOCViewController.xib in Resources */,
+				55C75A7016EAF57900F45ED3 /* blackImage.png in Resources */,
+				55C75A7216EAF7D700F45ED3 /* Unknown.png in Resources */,
+				558E75B416EAFFA500FEA78C /* CIRCLE.png in Resources */,
+				558E75B516EAFFA500FEA78C /* DOWN.png in Resources */,
+				558E75B616EAFFA500FEA78C /* UP.png in Resources */,
+				559DE52416EB84FA00CADBD8 /* View.xib in Resources */,
+				559DE52B16EB87E800CADBD8 /* UMBRELLA.png in Resources */,
+				559DE53716EC13B100CADBD8 /* MyImage.png in Resources */,
+				611855A016EF17B900AA1E96 /* round_menu_up.png in Resources */,
+				61FAEFDD16EF1CB3001A7B96 /* View1.xib in Resources */,
+				61FAEFE016EF29ED001A7B96 /* round_menu_dwn.png in Resources */,
+				61FAEFE216EF3081001A7B96 /* menu_back_img_new.png in Resources */,
+				55215A4916F8C6D500E1FBBE /* menu_approve.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -177,6 +238,7 @@
 				55C75A5916EAF35F00F45ED3 /* main.m in Sources */,
 				55C75A5D16EAF35F00F45ED3 /* LOCAppDelegate.m in Sources */,
 				55C75A6616EAF35F00F45ED3 /* LOCViewController.m in Sources */,
+				559DE53316EC121E00CADBD8 /* MyGradientView.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -258,6 +320,7 @@
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "ZView/ZView-Prefix.pch";
 				INFOPLIST_FILE = "ZView/ZView-Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 5.1;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				WRAPPER_EXTENSION = app;
 			};
@@ -269,6 +332,7 @@
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "ZView/ZView-Prefix.pch";
 				INFOPLIST_FILE = "ZView/ZView-Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 5.1;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				WRAPPER_EXTENSION = app;
 			};
@@ -293,6 +357,7 @@
 				55C75A6E16EAF35F00F45ED3 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

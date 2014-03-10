@@ -9,5 +9,19 @@
 #import <UIKit/UIKit.h>
 
 @interface LOCViewController : UIViewController
+{
+    
+    UIImageView *imgView;
+    UIImageView *tb;
+    UIButton *dload;
+    UITapGestureRecognizer *tap;
+}
+
+@property(nonatomic, retain) UIImageView *imgView;
+@property(nonatomic, retain) UIImageView *tb;
+@property(nonatomic, retain) UIButton *dload;
+@property(nonatomic, retain) UITapGestureRecognizer *tap;
+
+-(void)doAnimation:(CGPoint)pos;
 
 @end
